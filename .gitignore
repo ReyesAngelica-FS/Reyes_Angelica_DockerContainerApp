@@ -1,0 +1,38 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Docker-related
+Dockerfile
+.dockerignore
+*.tar
+
+# Logs
+logs
+*.log
+logs/*
+debug.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS / Temporary files
+*.tmp
+*.bak
+
+# Coverage / Test output (if added later)
+coverage/
+.nyc_output/
+
+# Docs and screenshots (optional)
+docs/screenshots/
